@@ -1,0 +1,59 @@
+.Left-container{
+    padding-left: 2%;
+    padding-right: 2%;
+    width : 20%;
+    /* height:50%; */
+    background-color: #6699CC;
+    color: white;
+
+}
+
+h1{
+    color: #ff8c69;
+}
+h2{
+    color: #002D62;
+}
+h3{
+    color: white;
+}
+h5{
+    color: #6699CC;
+    line-height: 0%;
+
+}
+th{
+    text-align: left;
+}
+
+hr{
+    margin-top: -5%;
+}
+
+.Big-container{
+    font-family:Arial, Helvetica, sans-serif;
+    font: size 15px;;
+    display: flex;
+    height:50%;
+    margin: 5% 5% 5% 5%;
+}
+.Right-container{
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-grow: 1;
+    /* height: 50%; */
+    background-color: cornsilk;
+    
+}
+
+.Right-container h3 {
+    color: #6699CC;
+    
+}
+.Right-container hr{
+    margin-top: -1.2%;
+}
+
+.projects p{
+    margin-top: -1.9%;
+}
